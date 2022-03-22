@@ -1,0 +1,11 @@
+{
+  "network": "arweave.N.1",
+  "version": 5,
+  "release": 51,
+  "height": 880344,
+  "current": "TJnsR81W47rTVtk3YtMBSPq6iMpaqafjp1CjfPF2GjeUR-p6nrdhHQbADuUojTDU",
+  "blocks": 880345,
+  "peers": 1017,
+  "queue_length": 0,
+  "node_state_latency": 1
+}
